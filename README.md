@@ -1,3 +1,5 @@
+<img width="100%" src="https://github.com/Jostar-Foundation/CodeRaider/blob/master/Coditor/public/coderaiderbanner.png">
+
 # CodeRaider — AI Powered Code Reviewer & Code Fixer
 
 Coderaider is an AI-powered platform designed to analyze, review, and fix code in real time. The interface features a split-view layout with a code editor on the left and an intelligent review panel on the right. As users write or paste code, Coderaider instantly provides feedback, highlights issues, and suggests optimized improvements.
@@ -31,7 +33,7 @@ Coderaider is an AI-powered platform designed to analyze, review, and fix code i
 
 ---
 
-## 🏗️ Tech Stack
+## 🚀 Tech Stack
 
 | Component | Technology |
 |----------|------------|
@@ -40,6 +42,12 @@ Coderaider is an AI-powered platform designed to analyze, review, and fix code i
 | Editor | Monaco Editor / CodeMirror |
 | AI Engine | OpenAI / Gemini / LLaMA (Your integration) |
 | Formatter | Prettier, ESLint |
+
+
+## 🚀 Project Overview
+
+<img width="100%" src="https://github.com/Jostar-Foundation/CodeRaider/blob/master/Coditor/public/CodeRaiderLand.png">
+<img width="100%" src="https://github.com/Jostar-Foundation/CodeRaider/blob/master/Coditor/public/CodeRaider.png">
 
 ---
 
