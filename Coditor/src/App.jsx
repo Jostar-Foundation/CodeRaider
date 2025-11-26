@@ -74,7 +74,7 @@ const App = () => {
 
   const [code, setCode] = useState("");
 
-  const ai = new GoogleGenAI({ apiKey: "AIzaSyBIlcXoAAzbF9PiSR4vsBmfUhcEjjGyMhs" }); // replace "YOUR_API_KEY" with you api key
+  const ai = new GoogleGenAI({ apiKey: "api_key" }); // replace "YOUR_API_KEY" with you api key
   const [loading, setLoading] = useState(false);
   const [response, setResponse] = useState("");
 
