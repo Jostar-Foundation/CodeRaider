@@ -39,29 +39,14 @@ Coderaider is an AI-powered platform designed to analyze, review, and fix code i
 
 ## 🚀 Features
 
-### 🔹 AI-Powered Code Review
-- Detects syntax errors  
-- Identifies logical bugs  
-- Highlights bad coding practices  
-- Suggests performance improvements  
+| **Feature** | **Details** |
+|-------------|-------------|
+| 🔹 **AI-Powered Code Review** | - Detects syntax errors<br>- Identifies logical bugs<br>- Highlights bad coding practices<br>- Suggests performance improvements |
+| 🔹 **AI Code Fixer** | - Auto-generates corrected versions of faulty code<br>- Produces optimized and clean code<br>- Maintains readability and coding standards |
+| 🔹 **Real-Time Split View Interface** | - **Left Panel:** Interactive code editor<br>- **Right Panel:** AI-generated review, suggestions, and fixes |
+| 🔹 **Multi-Language Support** | - Works with JavaScript, Python, C++, Java, HTML, CSS, and more<br>- Easily extendable |
+| 🔹 **Developer-Friendly Experience** | - Clear, human-readable explanations<br>- Helps beginners learn faster<br>- Reduces hours of debugging work |
 
-### 🔹 AI Code Fixer
-- Auto-generates corrected versions of faulty code  
-- Produces optimized and clean code  
-- Maintains readability and coding standards  
-
-### 🔹 Real-Time Split View Interface
-- **Left Panel:** Interactive code editor  
-- **Right Panel:** AI-generated review, suggestions, and fixes  
-
-### 🔹 Multi-Language Support
-- Works with JavaScript, Python, C++, Java, HTML, CSS, and more  
-- Easily extendable
-
-### 🔹 Developer-Friendly Experience
-- Clear, human-readable explanations  
-- Helps beginners learn faster  
-- Reduces hours of debugging work
 
 
 ## 🚀 Project Overview
