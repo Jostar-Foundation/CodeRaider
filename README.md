@@ -1,7 +1,7 @@
 >[!IMPORTANT]
 ><img width="100%" src="https://github.com/Jostar-Foundation/CodeRaider/blob/master/Coditor/public/coderaiderbanner.png">
 ># CodeRaider — AI Powered Code Reviewer & Fixer
-><a href="#">"An pre-alpha version prototype."</a>
+><h3 href="#">"An pre-alpha version prototype."</h3>
 
 Coderaider is an AI-powered platform designed to analyze, review, and fix code in real time. The interface features a split-view layout with a code editor on the left and an intelligent review panel on the right. As users write or paste code, Coderaider instantly provides feedback, highlights issues, and suggests optimized improvements.
 
