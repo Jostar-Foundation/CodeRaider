@@ -5,6 +5,8 @@
 
 Coderaider is an AI-powered platform designed to analyze, review, and fix code in real time. The interface features a split-view layout with a code editor on the left and an intelligent review panel on the right. As users write or paste code, Coderaider instantly provides feedback, highlights issues, and suggests optimized improvements.
 
+note: if you are not able to get the response that means the api key is deprecated.
+
 <a href="https://code-raider.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/CodeRaider-2F2F2F?style=for-the-badge&logo=github&logoColor=white" alt="CodeRaider" /></a>
 
