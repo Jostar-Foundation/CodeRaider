@@ -51,6 +51,20 @@ note: if you are not able to get the response that means the api key is deprecat
 | 🔹 **Developer-Friendly Experience** | - Clear, human-readable explanations<br>- Helps beginners learn faster<br>- Reduces hours of debugging work |
 
 
+> [!IMPORTANT]
+>
+> **Error:**  
+> - AI responses occasionally delay or fail when users paste very large files.
+>
+> **Cause:**  
+> - Multiple large requests were sent to the AI engine at once.  
+> - No request throttling or batching was implemented, leading to API timeouts.
+>
+> **Solution:**  
+> - Added **debouncing** so analysis only runs after typing stops.  
+> - Implemented **request queue + cancellation** to discard outdated analysis.  
+> - Limited maximum input size with a warning for users when needed. 
+
 
 ## 🚀 Project Overview
 
